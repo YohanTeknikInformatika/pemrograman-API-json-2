@@ -32,7 +32,7 @@ let data = [
 //TODO 1 : dapatkan semua data
 //TODO 2 : dapatkan data dengan nama tertentu
 //TODO 3 : dapatkan data dengan warna tertentu
-//TODO 4 : dapatkan data dengan stok >= 30
+//TODO 4 : dapatkan data dengan stok >= 100
 
 
 // TODO 1 : Dapatkan semua data
